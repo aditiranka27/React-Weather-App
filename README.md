@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is weather app in react which uses open weather map api to fetch the data
+
+![](public//weather-app-screnshot.png?raw=true "Title")
+
 ## Available Scripts
 
 In the project directory, you can run:
